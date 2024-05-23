@@ -1,0 +1,15 @@
+Day 1
+- Setting up everything
+- Added ground, player, and materials added
+- Created new scipts = Mouse Movement and Player Movement
+- Scripts are provided on github
+
+Day 2
+- Adding Weapon
+- Added Weapon script
+- Modelled a weapon 
+- modelled a bullet
+- Add rigidBody component
+  * make bullet interpolate and continous dynamic
+  * freeze rotation in all directions
+  * set mass to 0.3
