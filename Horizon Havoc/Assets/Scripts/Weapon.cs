@@ -43,7 +43,6 @@ public class Weapon : MonoBehaviour
     private IEnumerable DestroyBulletAfterTime(GameObject bullet, float delay)
     {
         yield return new WaitForSeconds(delay);
-        Destroy(bullet)
-            ;
+        Destroy(bullet);
     }
 }
