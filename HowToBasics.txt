@@ -13,3 +13,5 @@ Day 2
   * make bullet interpolate and continous dynamic
   * freeze rotation in all directions
   * set mass to 0.3
+
+Day 3
